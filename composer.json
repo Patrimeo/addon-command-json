@@ -1,7 +1,7 @@
 {
     "name": "patrimeo/addon-command-json",
     "description": "Get list of Patrimeo asset transactions through any command-line script",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "type": "library",
     "keywords": [
         "Patrimeo"
